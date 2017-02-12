@@ -18,7 +18,16 @@
 
 #### ES2015に関して
 
+実装の際に必要になったタイミングで随時追っかけていくように活用すると良いかと思います。
+
 + [ES2015で始めるJavaScript入門](http://qiita.com/ABCanG1015/items/824681cb88676da4f9a8)
 + [ES2015(ES6)についてのまとめ](http://qiita.com/tuno-tky/items/74ca595a9232bcbcd727)
 + [ES2015(ES6)入門](http://qiita.com/soarflat/items/b251caf9cb59b72beb9b)
 + [ES2015(ECMAScript2015)の文法を覚える](http://blosuki.hatenablog.com/entry/es2015)
+
+#### Lesson19以前の動画で行ったプラクティスと調べた参考資料集のアーカイブ
+
+今回の動画
+
++ [ReactNativeことはじめ＆実装サンプル(FirstStepOfReactNative)](https://github.com/fumiyasac/FirstStepOfReactNative)
++ [ReactNativeで簡単な実装を行ってみた記録と参考資料アーカイブ(SecondStepOfReactNative)](https://github.com/fumiyasac/SecondStepOfReactNative)
