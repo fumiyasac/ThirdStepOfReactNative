@@ -27,7 +27,7 @@
 
 #### Lesson19以前の動画で行ったプラクティスと調べた参考資料集のアーカイブ
 
-今回の動画
+今回のサンプル作成にあたり、下記の基本理解のための事前プラクティス用のサンプルも参考になるかと思います。
 
 + [ReactNativeことはじめ＆実装サンプル(FirstStepOfReactNative)](https://github.com/fumiyasac/FirstStepOfReactNative)
 + [ReactNativeで簡単な実装を行ってみた記録と参考資料アーカイブ(SecondStepOfReactNative)](https://github.com/fumiyasac/SecondStepOfReactNative)
